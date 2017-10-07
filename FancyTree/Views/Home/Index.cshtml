@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "FancyTree File Browser";
+}
+
+<h3>@ViewData["Title"]</h3>
+<div id="fileTree"></div>
+
+@section Scripts
+    {
+    <script type="text/javascript">
+        $(function () {
+            $("#fileTree").fancytree({
+                imagePath: "images/",
+                extensions: ["glyph"],
+                source: {
+                    url: "@Url.Action("DirData", "FancyTree")",
+                    cache: false
+                },
+                selectMode: 3,
+                icon: true,
+                lazyLoad: function(event, data) {
+                    var node = data.node;
+                    data.result = {
+                        url: "@Url.Action("DirData", "FancyTree")",
+                        data: { mode: "children", parent: node.key },
+                        cache: false
+                    };
+                },
+                clickFolderMode: 3
+            });
+        });
+    </script>
+}

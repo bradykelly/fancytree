@@ -1,0 +1,11 @@
+C:\Projects\FileBrowsers\Bootsrap\bin\Debug\netcoreapp2.0\Bootsrap.deps.json
+C:\Projects\FileBrowsers\Bootsrap\bin\Debug\netcoreapp2.0\Bootsrap.runtimeconfig.json
+C:\Projects\FileBrowsers\Bootsrap\bin\Debug\netcoreapp2.0\Bootsrap.runtimeconfig.dev.json
+C:\Projects\FileBrowsers\Bootsrap\bin\Debug\netcoreapp2.0\Bootsrap.dll
+C:\Projects\FileBrowsers\Bootsrap\bin\Debug\netcoreapp2.0\Bootsrap.pdb
+C:\Projects\FileBrowsers\Bootsrap\obj\Debug\netcoreapp2.0\Bootsrap.csprojResolveAssemblyReference.cache
+C:\Projects\FileBrowsers\Bootsrap\obj\Debug\netcoreapp2.0\Bootsrap.csproj.CoreCompileInputs.cache
+C:\Projects\FileBrowsers\Bootsrap\obj\Debug\netcoreapp2.0\Bootsrap.AssemblyInfoInputs.cache
+C:\Projects\FileBrowsers\Bootsrap\obj\Debug\netcoreapp2.0\Bootsrap.AssemblyInfo.cs
+C:\Projects\FileBrowsers\Bootsrap\obj\Debug\netcoreapp2.0\Bootsrap.dll
+C:\Projects\FileBrowsers\Bootsrap\obj\Debug\netcoreapp2.0\Bootsrap.pdb
